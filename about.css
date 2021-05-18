@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Gallery;
+    src: url("fonts/GalleryModern.otf") format("opentype");
+    outline: none;
+}
+  
+@font-face {
+    font-family: Geomanist-light;
+    src: url("fonts/Geomanist-Light.otf") format("opentype");
+}
+  
+@font-face {
+    font-family: Geomanist-medium;
+    src: url("fonts/Geomanist-Medium.otf") format("opentype");
+}
+  
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}

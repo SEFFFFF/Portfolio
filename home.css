@@ -1,11 +1,17 @@
 @font-face {
   font-family: Gallery;
-  src: url("GalleryModern.otf") format("opentype");
+  src: url("fonts/GalleryModern.otf") format("opentype");
+  outline: none;
 }
 
 @font-face {
   font-family: Geomanist-light;
   src: url("fonts/Geomanist-Light.otf") format("opentype");
+}
+
+@font-face {
+  font-family: Geomanist-medium;
+  src: url("fonts/Geomanist-Medium.otf") format("opentype");
 }
 
 * {
@@ -14,209 +20,187 @@
   box-sizing: border-box;
 }
 
-.nav {
-  display: flex;
-  justify-content: start;
-  padding-left: 20px;
-  padding-top: 20px;
+.home {
+  width: 100vw;
+  height: 100vh;
 }
 
-.navbar {
-    overflow: hidden;
-    display: flex;
-    margin-left: 35%;
-    align-items: center;
-    font-family: Geomanist-light;
-  }
-  
- 
-  .navbar a {
-    float: left;
-    font-size: 23px;
-    color: black;
-    text-align: center;
-    padding: 14px 45px;
-    text-decoration: none;
-  }
-  
-  
-  .navbar a:hover {
-    background-color: #e5dcbc;
-  }
+.BG {
+  margin-top: 160px;
+  margin-left: 220px;
+}
 
-  .home {
-    width: 1638px;
-    height: 922px;
-    margin-top: -15px;
-    margin-left: auto;
-    margin-right: auto;
-  }
+.intro {
+  position: absolute;
+  margin-top: -30%;
+  margin-left: 25%;
+  width: 900px;
+}
 
-  .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    text-align: center;
-  }
+.intro h1 {
+  float: right;
+}
 
-  .BG {
-    margin-top: 100px;
-    margin-left: 150px;
-  }
+.sef {
+  font-family: Gallery;
+  font-size: 112px;
+  margin-bottom: -30px;
+}
 
-  /* Margin and Padding is set to zero 
-        so the body can occupy the full 
-        screen page */
-        body {
-          margin: 0;
-          padding: 0;
-          background: #FFFBE7;
-      }
+.portfolio {
+  font-family: Gallery;
+  font-size: 150px;
+  margin-bottom: -35px;
+}
+
+.jaar {
+  font-size: 74px;
+  font-family: Geomanist-medium;
+  margin-left: 84%;
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #FFFBE7;
+}
         
-      /* To put the header in the center of 
-      the page we used justify-content and 
-      align-items and set their value as
-      center, You can add any background image */
-      .header-bg {
-          position: fixed;
-          top:0;
-          left:0;
-          width: 100vw;
-          height: 100vh;
-          justify-content: center;
-          align-items: center;
-          display: flex;
+
+.header-bg {
+  position: fixed;
+  top:0;
+  left:0;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  display: flex;
       }
 
+.header-bg h2 {
+  margin: 0;
+  padding: 0;
+  color: #000;
+  text-align: center;
+  padding: 20px;
+  max-width: 80%;
+}
 
-      /* Box shadow provides shadow effect 
-      to the element */
-      .header-bg h2 {
-          margin: 0;
-          padding: 0;
-          color: #000;
-          text-align: center;
-          padding: 20px;
-          max-width: 80%;
+
+section {
+  position: relative;
+  top:100vh;
+  width: 100%;
+  min-height: 100vh;
+  box-sizing: border-box;
+  overflow-x: hidden;
       }
 
-      /* Set "position:relative" then section can move
-      from its original position, by using position:relative,
-      the position of the section is not dependent on the
-      container. The box-sizing property is used to include
-      the padding and border in an element */
-      section {
-          position: relative;
-          top:100vh;
-          width: 100%;
-          min-height: 100vh;
-          box-sizing: border-box;
-          overflow-x: hidden;
-      }
-      section h2 {
-          text-align:center;
-          margin: 0 0 50px;
-          padding: 0;
-          font-size: 40px;
-          color: #fff; 
-      }
-      section p {
-          text-align:center;
-          color: #fff;
-          font-size: 1.3em;
-      }
+section h2 {
+  text-align:center;
+  margin: 0 0 50px;
+  padding: 0;
+  font-size: 40px;
+  color: #fff; 
+}
+section p {
+  text-align:center;
+  color: #fff;
+  font-size: 1.3em;
+}
     
-      .sticky {
-        position: fixed;
-        top: 0;
-        width: 100%;
-        z-index: 1000;
-      }
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
 
 .container {
-    display: flex;
-    width: 100vw;
+  display: flex;
+  width: 100vw;
 }
 
 .box {
-    position: relative;
-    width: 16.67%;
-    height: 100vh;
-    background-color: #FFFBE7;
-  }
+  position: relative;
+  width: 16.67%;
+  height: 100vh;
+  background-color: #FFFBE7;
+  border-style: 2px solid black;
+}
   
-  .image {
-    display: block;
-    width: 100%;
-    height: auto;
-  }
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
   
-  .overlay {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background-color: #008CBA;
-    /* overflow: hidden; */
-    width: 100%;
-    height: 100%;
-    /* height: 0; */
-    transition: .2s ease;
-    opacity: 0;
-  }
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #008CBA;
+  /* overflow: hidden; */
+  width: 100%;
+  height: 100%;
+  /* height: 0; */
+  transition: .2s ease;
+  opacity: 0;
+}
   
-  .box:hover .overlay {
-    /* height: 100%; */
-    opacity: 1;
-  }
+.box:hover .overlay {
+  /* height: 100%; */
+  opacity: 1;
+}
   
-  .text {
-    color: black;
-    position: absolute;
-    top: 20%;
-    left: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-    text-align: center;
-  }
+.text {
+  color: black;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
 
-  .text h1 {
-    font-family: geomanist;
-    font-size: 100px;
-  }
+.text h1 {
+  font-family: geomanist;
+  font-size: 100px;
+}
 
-  .text h2 {
-    font-family: Gallery;
-    font-size: 60px;
-    color: black;
-  }
+.text h2 {
+  font-family: Gallery;
+  font-size: 60px;
+  color: black;
+}
 
-  .text2 {
-    color: black;
-    position: absolute;
-    top: 90%;
-    left: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-    text-align: center;
-    font-family: Gallery;
-  }
+.text2 {
+  color: black;
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-family: Gallery;
+}
 
-  .text2 h3 {
-    font-size: 28px;
-  }
+.text2 h3 {
+  font-size: 28px;
+}
 
-  .box:hover .text2 {
-    color:white;
-  }
+.box:hover .text2 {
+  color:white;
+}
 
-  .box:hover .text {
-    color:white;
-  }
+.box:hover .text {
+ color:white;
+}
 
-  .box:hover .text h2 {
-    color:white;
-  }
+.box:hover .text h2 {
+  color:white;
+}

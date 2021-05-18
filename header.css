@@ -1,0 +1,41 @@
+.nav {
+    display: flex;
+    justify-content: start;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+#logo {
+    width: 75px;
+    height: 75px;
+}
+  
+.navbar {
+    overflow: hidden;
+    display: flex;
+    margin-left: 35%;
+    align-items: center;
+    font-family: Geomanist-light;
+}
+    
+   
+.navbar a {
+    position: relative;
+    float: left;
+    font-size: 18px;
+    color: black;
+    text-align: center;
+    padding: 14px 45px;
+    text-decoration: none;
+}
+    
+    
+.navbar a:hover::after {
+    color: rgb(39, 39, 39);
+    content: "";
+    position: absolute;
+    left: 25%;
+    right: 25%;
+    bottom: 0;
+    border: 1px solid black;
+}

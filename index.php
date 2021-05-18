@@ -5,7 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="home.css">
-    <title>Document</title>
+    <link rel="stylesheet" href="header.css">
+    <title>Home</title>
 </head>
 <body>
     <?php 
@@ -13,10 +14,12 @@
     ?>
     <div class="header-bg">
       <div class="home">
-        <img src="images/IMG_3584.png" class="BG">
-        <h1 class="center">Sef van Halbeek</h1>
-        <h1 class="center">PORTFOLIO</h1>
-        <h3 class="center">2021</h3>
+          <img src="images/IMG_3584.png" class="BG">
+          <div class="intro">
+            <h1 class="sef">Sef van Halbeek</h1>
+            <h1 class="portfolio">PORTFOLIO</h1>
+            <h3 class="jaar">2021</h3>
+          </div>
       </div>
     </div>
     <section>
