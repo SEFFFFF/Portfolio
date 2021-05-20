@@ -25,7 +25,7 @@
     <section>
       <div class="container">
           <div class="box">  
-                <div class="overlay">                       
+                <div class="overlay" onclick="location.href='projects.php'">                       
                    <img src="IMG_3577.png" alt="Avatar" class="image">
                 </div>
                 <div class="text">
@@ -35,7 +35,7 @@
                 <h3 class="text2">Interactive Media</h3>    
             </div>
           <div class="box">  
-                <div class="overlay">                       
+                <div class="overlay" onclick="location.href='projects.php'">                       
                    <img src="IMG_3577.png" alt="Avatar" class="image">
                 </div>
                 <div class="text">
@@ -45,7 +45,7 @@
                 <h3 class="text2">Development</h3>
           </div>
           <div class="box">  
-                <div class="overlay">                       
+                <div class="overlay" onclick="location.href='projects.php'">                       
                    <img src="IMG_3577.png" alt="Avatar" class="image">
                 </div>
                 <div class="text">
@@ -55,7 +55,7 @@
                 <h3 class="text2">Design</h3>
           </div>
           <div class="box">  
-                <div class="overlay">                       
+                <div class="overlay" onclick="location.href='projects.php'">                       
                    <img src="IMG_3577.png" alt="Avatar" class="image">
                 </div>
                 <div class="text">
@@ -65,7 +65,7 @@
                 <h3 class="text2">Research</h3>
           </div>
           <div class="box">  
-                <div class="overlay">                       
+                <div class="overlay" onclick="location.href='projects.php'">                       
                    <img src="IMG_3577.png" alt="Avatar" class="image">
                 </div>
                 <div class="text">
@@ -75,7 +75,7 @@
                 <h3 class="text2">Communication</h3>
           </div>
           <div class="box">  
-                <div class="overlay">                       
+                <div class="overlay" onclick="location.href='projects.php'">                       
                    <img src="IMG_3577.png" alt="Avatar" class="image">
                 </div>
                 <div class="text">
