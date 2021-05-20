@@ -8,19 +8,53 @@
     font-family: Geomanist-light;
     src: url("fonts/Geomanist-Light.otf") format("opentype");
 }
-  
+
 @font-face {
-    font-family: Geomanist-medium;
-    src: url("fonts/Geomanist-Medium.otf") format("opentype");
+    font-family: Geomanist-regular;
+    src: url("fonts/Geomanist-Regular.otf") format("opentype");
 }
   
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: #F6F3EA;
 }
 
 .container {
     display: flex;
+    height: 91vh;
+    align-items: flex-end;
 }
+
+.text {
+    margin-bottom: 100px;
+    margin-left: 200px;
+}
+
+.text h1 {
+    font-family: Gallery;
+    font-size: 150px;
+}
+
+.p1 {
+    font-family: Geomanist-regular;
+    font-size: 18px;
+    margin-bottom: 32px;
+    margin-top: 160px;
+    margin-right: 100px;
+}
+
+.p2 {
+    font-family: Geomanist-light;
+    font-size: 16px;
+    margin-bottom: 14px;
+    margin-right: 150px;
+}
+
+.img2 {
+    margin-right: 200px;
+}
+
+
 
