@@ -26,7 +26,7 @@
       <div class="container">
           <div class="box">  
                 <div class="overlay" onclick="location.href='projects.php'">                       
-                   <img src="IMG_3577.png" alt="Avatar" class="image">
+                   <img src="images/Asset 17.png" alt="Avatar" class="image">
                 </div>
                 <div class="text">
                     <h1>01</h1>
@@ -36,7 +36,7 @@
             </div>
           <div class="box">  
                 <div class="overlay" onclick="location.href='projects.php'">                       
-                   <img src="IMG_3577.png" alt="Avatar" class="image">
+                   <img src="images/Asset 16.png" alt="Avatar" class="image">
                 </div>
                 <div class="text">
                     <h1>02</h1>
@@ -46,7 +46,7 @@
           </div>
           <div class="box">  
                 <div class="overlay" onclick="location.href='projects.php'">                       
-                   <img src="IMG_3577.png" alt="Avatar" class="image">
+                   <img src="images/Asset 14.png" alt="Avatar" class="image">
                 </div>
                 <div class="text">
                     <h1>03</h1>
@@ -56,7 +56,7 @@
           </div>
           <div class="box">  
                 <div class="overlay" onclick="location.href='projects.php'">                       
-                   <img src="IMG_3577.png" alt="Avatar" class="image">
+                   <img src="images/Asset 15.png" alt="Avatar" class="image">
                 </div>
                 <div class="text">
                     <h1>04</h1>
@@ -66,7 +66,7 @@
           </div>
           <div class="box">  
                 <div class="overlay" onclick="location.href='projects.php'">                       
-                   <img src="IMG_3577.png" alt="Avatar" class="image">
+                   <img src="images/Asset 13.png" alt="Avatar" class="image">
                 </div>
                 <div class="text">
                     <h1>05</h1>
@@ -76,7 +76,7 @@
           </div>
           <div class="box">  
                 <div class="overlay" onclick="location.href='projects.php'">                       
-                   <img src="IMG_3577.png" alt="Avatar" class="image">
+                   <img src="images/Asset 12.png" alt="Avatar" class="image">
                 </div>
                 <div class="text">
                     <h1>06</h1>

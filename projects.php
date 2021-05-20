@@ -12,5 +12,101 @@
     <?php 
         include 'include/header.php'
     ?>
+    <div class="container">
+        <h1>Interactive Media</h1>
+        <div class="row">
+            <div class="project">
+                <div class="overlay" onclick="location.href='projects.php'">                       
+                   <h1>Portfolio</h1>
+                </div>
+                <img src="images/Asset 5.png" alt="Avatar" class="image">                              
+            </div>
+            <div class="project">
+                hoi
+            </div>
+            <div class="project">
+                hoi
+            </div>
+        </div>
+
+        <h1>Development</h1>
+        <div class="row">
+            <div class="project">
+                hoi
+            </div>
+            <div class="project">
+                hoi
+            </div>
+            <div class="project">
+                hoi
+            </div>
+            <div class="project pro">
+                hoi
+            </div>
+        </div>
+
+        <h1>Design</h1>
+        <div class="row">
+            <div class="project">
+                hoi
+            </div>
+            <div class="project">
+                hoi
+            </div>
+            <div class="project">
+                hoi
+            </div>
+            <div class="project">
+                hoi
+            </div>
+        </div>
+        <div class="row">
+            <div class="project">
+                hoi
+            </div>
+            <div class="project">
+                hoi
+            </div>
+        </div>
+
+        <h1>Research</h1>
+        <div class="row">
+            <div class="project">
+                hoi
+            </div>
+            <div class="project">
+                hoi
+            </div>
+            <div class="project">
+                hoi
+            </div>
+            <div class="project pro">
+                hoi
+            </div>
+        </div>
+
+        <h1>Communication</h1>
+        <div class="row">
+            <div class="project">
+                hoi
+            </div>
+            <div class="project">
+                hoi
+            </div>
+            <div class="project">
+                hoi
+            </div>
+            <div class="project pro">
+                hoi
+            </div>
+        </div>
+
+        <h1>Professional Identity</h1>
+        <div class="row">
+            <div class="project">
+                hoi
+            </div>
+        </div>
+    </div>
 </body>
 </html>
