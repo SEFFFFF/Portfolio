@@ -20,15 +20,15 @@
       <div class="home">
           <img src="images/IMG_3584.png" class="BG">
           <div class="intro">
-            <h1 class="sef animate__animated animate__fadeInDown">Sef van Halbeek</h1>
-            <h1 class="portfolio animate__animated animate__fadeInUp">PORTFOLIO</h1>
-            <h3 class="jaar animate__animated animate__fadeInUp">2021</h3>
+            <h1 class="sef animated fade-down delay-200">Sef van Halbeek</h1>
+            <h1 class="portfolio animated fade-up delay-200">PORTFOLIO</h1>
+            <h3 class="jaar animated fade-up delay-200">2021</h3>
           </div>
       </div>
     </div>
     <section>
       <div class="container">
-          <div class="box">  
+          <div class="box animated fade-up delay-200">  
                 <div class="overlay" onclick="location.href='projects.php'">                       
                    <img src="images/Asset 17.png" alt="Avatar" class="image">
                 </div>
@@ -38,7 +38,7 @@
                 </div>
                 <h3 class="text2">Interactive Media</h3>    
             </div>
-          <div class="box">  
+          <div class="box animated fade-up delay-400">  
                 <div class="overlay" onclick="location.href='projects.php'">                       
                    <img src="images/Asset 16.png" alt="Avatar" class="image">
                 </div>
@@ -48,7 +48,7 @@
                 </div>
                 <h3 class="text2">Development</h3>
           </div>
-          <div class="box">  
+          <div class="box animated fade-up delay-600">  
                 <div class="overlay" onclick="location.href='projects.php'">                       
                    <img src="images/Asset 14.png" alt="Avatar" class="image">
                 </div>
@@ -58,7 +58,7 @@
                 </div>
                 <h3 class="text2">Design</h3>
           </div>
-          <div class="box">  
+          <div class="box animated fade-up delay-800">  
                 <div class="overlay" onclick="location.href='projects.php'">                       
                    <img src="images/Asset 15.png" alt="Avatar" class="image">
                 </div>
@@ -68,7 +68,7 @@
                 </div>
                 <h3 class="text2">Research</h3>
           </div>
-          <div class="box">  
+          <div class="box animated fade-up delay-1000">  
                 <div class="overlay" onclick="location.href='projects.php'">                       
                    <img src="images/Asset 13.png" alt="Avatar" class="image">
                 </div>
@@ -78,7 +78,7 @@
                 </div>
                 <h3 class="text2">Communication</h3>
           </div>
-          <div class="box">  
+          <div class="box animated fade-up delay-1200">  
                 <div class="overlay" onclick="location.href='projects.php'">                       
                    <img src="images/Asset 12.png" alt="Avatar" class="image">
                 </div>
@@ -90,6 +90,7 @@
           </div>
       </div>
     </section>
+    <script src="script.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script>$(document).ready(function(){
         $(window).scroll(function(){

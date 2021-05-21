@@ -66,5 +66,30 @@
     margin-right: 200px;
 }
 
+.fade-left {
+    -webkit-transform: translateX(-100px);
+    transform: translateX(-100px);
+}
+  
+.animated {
+    transition: .4s;
+    opacity: 0;
+}
+  
+.visible {
+    opacity: 1;
+    -webkit-transform: translate(0px);
+    transform: translate(0px);
+}
+  
+.delay-200 {
+    transition-delay: .2s;
+}
+
+.delay-400 {
+    transition-delay: .4s;
+}
+
+
 
 

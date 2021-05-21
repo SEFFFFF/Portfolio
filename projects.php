@@ -18,8 +18,8 @@
         include 'include/header.php'
     ?>
     <div class="container">
-        <h1 class="animate__animated animate__fadeInDown">Interactive Media</h1>
-        <div class="row">
+        <h1 class="animated fade-down delay-200">Interactive Media</h1>
+        <div class="row animated fade-down delay-400">
             <div class="project">
                 <div class="overlay" onclick="location.href='projects.php'">                       
                    <h1>Portfolio Prototype</h1>
@@ -40,8 +40,8 @@
             </div>
         </div>
 
-        <h1 class="animate__animated animate__fadeInDown">Development</h1>
-        <div class="row">
+        <h1 class="animated fade-down delay-200">Development</h1>
+        <div class="row animated fade-down delay-400">
             <div class="project">
                 <div class="overlay" onclick="location.href='projects.php'">                       
                    <h1>Portfolio Website</h1>
@@ -68,8 +68,8 @@
             </div>
         </div>
 
-        <h1 class="animate__animated animate__fadeInDown">Design</h1>
-        <div class="row">
+        <h1 class="animated fade-down delay-200">Design</h1>
+        <div class="row animated fade-down delay-400">
             <div class="project">
                 <div class="overlay" onclick="location.href='projects.php'">                       
                    <h1>Brand Guide Rosa</h1>
@@ -95,7 +95,7 @@
                 <img src="images/Asset 27.png" alt="Avatar" class="image">
             </div>
         </div>
-        <div class="row">
+        <div class="row animated fade-down delay-400">
             <div class="project">
                 <div class="overlay" onclick="location.href='projects.php'">                       
                    <h1>Poster</h1>
@@ -110,8 +110,8 @@
             </div>
         </div>
 
-        <h1 class="animate__animated animate__fadeInDown">Research</h1>
-        <div class="row">
+        <h1 class="animated fade-down delay-200">Research</h1>
+        <div class="row animated fade-down delay-400">
             <div class="project">
                 <div class="overlay" onclick="location.href='projects.php'">                       
                    <h1>Intercultural Awareness</h1>
@@ -138,8 +138,8 @@
             </div>
         </div>
 
-        <h1 class="animate__animated animate__fadeInDown">Communication</h1>
-        <div class="row">
+        <h1 class="animated fade-down delay-200">Communication</h1>
+        <div class="row animated fade-down delay-400">
             <div class="project">
                 <div class="overlay" onclick="location.href='projects.php'">                       
                    <h1>Communicatie Met Opdrachtgever</h1>
@@ -166,8 +166,8 @@
             </div>
         </div>
 
-        <h1 class="animate__animated animate__fadeInDown">Professional Identity</h1>
-        <div class="row">
+        <h1 class="animated fade-down delay-200">Professional Identity</h1>
+        <div class="row animated fade-down delay-400">
             <div class="project">
                 <div class="overlay" onclick="location.href='projects.php'">                       
                    <h1>Zelfreflectie</h1>
@@ -176,8 +176,8 @@
             </div>
         </div>
 
-        <h1 class="animate__animated animate__fadeInDown">Sprint X</h1>
-        <div class="row">
+        <h1 class="animated fade-down delay-200">Sprint X</h1>
+        <div class="row animated fade-down delay-400">
             <div class="project">
                 <div class="overlay" onclick="location.href='projects.php'">                       
                    <h1>Sprint X Project</h1>
@@ -186,5 +186,6 @@
             </div>
         </div>
     </div>
+    <script src="script.js"></script>
 </body>
 </html>
