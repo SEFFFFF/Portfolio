@@ -18,13 +18,23 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #F6F3EA;
+}
+
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
 }
 
 .container {
     display: flex;
-    height: 91vh;
+    height: 100vh;
     align-items: flex-end;
+    background-color: #F6F3EA;
+    margin: 0;
+    padding: 0;
 }
 
 .text {

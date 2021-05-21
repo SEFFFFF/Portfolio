@@ -6,6 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="home.css">
     <link rel="stylesheet" href="header.css">
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
     <title>Home</title>
 </head>
 <body>
@@ -16,9 +20,9 @@
       <div class="home">
           <img src="images/IMG_3584.png" class="BG">
           <div class="intro">
-            <h1 class="sef">Sef van Halbeek</h1>
-            <h1 class="portfolio">PORTFOLIO</h1>
-            <h3 class="jaar">2021</h3>
+            <h1 class="sef animate__animated animate__fadeInDown">Sef van Halbeek</h1>
+            <h1 class="portfolio animate__animated animate__fadeInUp">PORTFOLIO</h1>
+            <h3 class="jaar animate__animated animate__fadeInUp">2021</h3>
           </div>
       </div>
     </div>

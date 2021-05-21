@@ -18,14 +18,26 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.container {
     background-color: #F6F3EA;
+    margin: 0;
+    height: 100%;
 }
 
 .container h1 {
     text-align: center;
     font-family: Gallery;
     font-size: 80px;
-    margin-top: 60px;
+    padding-top: 120px;
     margin-bottom: 60px;
 }
 
@@ -39,7 +51,7 @@
     position: relative;
     width: 375px;
     height: 500px;
-    background-color: blue;
+    background-color: white;
     margin: 5px;
 }
 
@@ -65,9 +77,10 @@
 }
 
 .overlay h1 {
-    background-color: #008CBA;
+    background: none;
     font-size: 40px;
     margin-top: 50%;
+    padding: 0;
 }
 
 .project:hover .overlay {
