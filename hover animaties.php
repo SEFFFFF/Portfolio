@@ -18,15 +18,15 @@
         <a href="projects.php" class="back-btn">Back</a>
     </div>
     <div class="topbox">
-        <h1>Portfolio Prototype</h1>
-        <p>Dit semester worden wij beoordeeld op basis van ons portfolio. Hier staan alle stappen die ik genomen heb voor het maken van mijn portfolio</p>
+        <h1>Hover animaties</h1>
+        <p></p>
     </div>
 </div>
 
 <div class="container">
     <div class="row animated fade-down delay-200">
         <div class="box">
-            <h2>Versie 1</h2>
+            <h2></h2>
             <p></p>
         </div>
         <div class="box">
@@ -38,13 +38,13 @@
             <img src="" alt="">
         </div>
         <div class="box">
-            <h2>Versie 2</h2>
+            <h2></h2>
             <p></p>
         </div>
     </div>
     <div class="row animated fade-down delay-200">
         <div class="box">
-            <h2>Versie 3</h2>
+            <h2></h2>
             <p></p>
         </div>
         <div class="box">
@@ -53,11 +53,11 @@
     </div>
     <div class="row animated fade-down delay-200">
         <div class="box">
-            <h2>Wat heb ik geleerd?</h2>
+            <h2></h2>
             <p></p>
         </div>
         <div class="box">
-            <h2>Wat kon beter?</h2>
+            <h2></h2>
             <p></p>
         </div>
     </div>
