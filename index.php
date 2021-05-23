@@ -29,7 +29,7 @@
     <section>
       <div class="container">
           <div class="box animated fade-up delay-200">  
-                <div class="overlay" onclick="location.href='projects.php'">                       
+                <div class="overlay delay-0" onclick="location.href='projects.php'">                       
                    <img src="images/Asset 17.png" alt="Avatar" class="image">
                 </div>
                 <div class="text">
@@ -39,7 +39,7 @@
                 <h3 class="text2">Interactive Media</h3>    
             </div>
           <div class="box animated fade-up delay-400">  
-                <div class="overlay" onclick="location.href='projects.php'">                       
+                <div class="overlay delay-0" onclick="location.href='projects.php'">                       
                    <img src="images/Asset 16.png" alt="Avatar" class="image">
                 </div>
                 <div class="text">
@@ -49,7 +49,7 @@
                 <h3 class="text2">Development</h3>
           </div>
           <div class="box animated fade-up delay-600">  
-                <div class="overlay" onclick="location.href='projects.php'">                       
+                <div class="overlay delay-0" onclick="location.href='projects.php'">                       
                    <img src="images/Asset 14.png" alt="Avatar" class="image">
                 </div>
                 <div class="text">
@@ -59,7 +59,7 @@
                 <h3 class="text2">Design</h3>
           </div>
           <div class="box animated fade-up delay-800">  
-                <div class="overlay" onclick="location.href='projects.php'">                       
+                <div class="overlay delay-0" onclick="location.href='projects.php'">                       
                    <img src="images/Asset 15.png" alt="Avatar" class="image">
                 </div>
                 <div class="text">
@@ -69,7 +69,7 @@
                 <h3 class="text2">Research</h3>
           </div>
           <div class="box animated fade-up delay-1000">  
-                <div class="overlay" onclick="location.href='projects.php'">                       
+                <div class="overlay delay-0" onclick="location.href='projects.php'">                       
                    <img src="images/Asset 13.png" alt="Avatar" class="image">
                 </div>
                 <div class="text">
@@ -79,7 +79,7 @@
                 <h3 class="text2">Communication</h3>
           </div>
           <div class="box animated fade-up delay-1200">  
-                <div class="overlay" onclick="location.href='projects.php'">                       
+                <div class="overlay delay-0" onclick="location.href='projects.php'">                       
                    <img src="images/Asset 12.png" alt="Avatar" class="image">
                 </div>
                 <div class="text">

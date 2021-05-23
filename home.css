@@ -242,6 +242,10 @@ section p {
   transform: translate(0px);
 }
 
+.delay-0 {
+  transition-delay: 0;
+}
+
 .delay-100 {
   transition-delay: .1s;
 }

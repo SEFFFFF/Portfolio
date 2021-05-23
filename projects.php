@@ -6,10 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="projects.css">
     <link rel="stylesheet" href="header.css">
-    <link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
-  />
     <title>Home</title>
     <title>Projects</title>
 </head>
@@ -21,7 +17,7 @@
         <h1 class="animated fade-down delay-200">Interactive Media</h1>
         <div class="row animated fade-down delay-400">
             <div class="project">
-                <div class="overlay" onclick="location.href='projects.php'">                       
+                <div class="overlay" onclick="location.href='portfolio.php'">                       
                    <h1>Portfolio Prototype</h1>
                 </div>
                 <img src="images/Asset 18.png" alt="Avatar" class="image">                              

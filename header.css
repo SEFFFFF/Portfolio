@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Geomanist-light;
+    src: url("fonts/Geomanist-Light.otf") format("opentype");
+}
+
 .nav {
     display: flex;
     justify-content: start;
@@ -19,8 +24,7 @@
     margin-left: 35%;
     align-items: center;
     font-family: Geomanist-light;
-}
-    
+}  
    
 .navbar a {
     position: relative;
