@@ -34,6 +34,7 @@
     <div class="row animated fade-down delay-200">
         <div class="box">
             <img src="images/type js.png" alt="typewriter">
+            <img src="images/typewriter.gif" alt="typewriter">
         </div>
         <div class="box">
             <h2>Typewriter animatie</h2>
@@ -47,6 +48,7 @@
     <div class="row animated fade-down delay-200">
         <div class="box">
             <img src="images/scroll js-css.png" alt="fade on scroll">
+            <img src="images/fade in.gif" alt="fade on scroll">
         </div>
         <div class="box">
             <h2>Fade on scroll animaties</h2>
