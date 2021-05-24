@@ -51,15 +51,7 @@
                 <img src="images/Asset 23.png" alt="Avatar" class="image">
             </div>
         </div>
-        <div class="row animated fade-down delay-400">
-            <div class="project">
-                <div class="overlay" onclick="location.href='modal.php'">                       
-                   <h1>Modal</h1>
-                </div>
-                <img src="images/Asset 5.png" alt="Avatar" class="image">
-            </div>
-        </div>
-
+        
         <h1 class="animated fade-down delay-200">Design</h1>
         <div class="row animated fade-down delay-400">
             <div class="project">
@@ -145,7 +137,7 @@
                 <img src="images/Asset 5.png" alt="Avatar" class="image">
             </div>
             <div class="project">
-                <div class="overlay" onclick="location.href='docenten.php'">                       
+                <div class="overlay" onclick="location.href='leraren.php'">                       
                    <h1>Docenten</h1>
                 </div>
                 <img src="images/Asset 5.png" alt="Avatar" class="image">
