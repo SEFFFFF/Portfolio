@@ -20,6 +20,7 @@
     <div class="topbox">
         <h1>Mediaverkenning</h1>
         <p>Als 1ste opdracht voor Rosa moesten wij onderzoek doen naar wie zij is, wat haar plaats is en hoe wij haar kunnen helpen en dit onderzoek in een professioneel vormgegeven mediaverkenning te verwerken.</p>
+        <a href="PDFs/Mediaverkenning.pdf" class="back-btn3">Mediaverkenning</a>
     </div>
 </div>
 
@@ -48,7 +49,6 @@
             <p>Voor het maken van dit document heb ik Illustrator gebruikt omdat ik hier het meeste ervaring mee had. Dit was echter geen slimme keuze wat ik later zou leren toen ik Indesign ging gebruiken. Door het gebruik van Illustrator heeft het maken van dit document veel langer geduurd dan nodig was en heb ik een hoop tijd verspild.</p>
             <h3>Feedback</h3>
             <p>Rosa en leraren waren onder de indruk van het document wat we geleverd hebben. Ze vonden het compleet qua onderzoek, goed/professioneel vormgegeven en ook de plannen voor toekomstige sprints kwamen goed over.</p>
-            <a href="https://github.com/SEFFFFF/Text-animations" class="back-btn3">Mediaverkenning</a>
         </div>
     </div>
     <div class="row animated fade-down delay-200">

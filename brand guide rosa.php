@@ -20,7 +20,7 @@
     <div class="topbox">
         <h1>Brand Guide Rosa</h1>
         <p>Met alle kennis die we opgedaan hebben via de mediaverkenning heb ik een brand guide samengesteld om zo de waardes van Rosa's merk te waarborgen. Deze brand guide heb ik vrijwel helemaal alleen gemaakt van het logo to alle beeldelementen.</p>
-        <a href="https://github.com/SEFFFFF/Text-animations" class="back-btn2">Brand guide</a>
+        <a href="PDFs/Brand guide.pdf" class="back-btn2">Brand guide</a>
     </div>
 </div>
 <div class="container">
@@ -32,6 +32,7 @@
             <h2>Layout en inspiratie</h2>
             <p>Als 1ste ben ik op Pinterest opzoek gegaan naar voorbeelden en inspiratie voor mooie brand guides. Uit het onderzoek van de mediaverkenning wist ik al wat de inhoud zou worden van de guide dus dat scheelde wel werk. Alle inspiratie heb ik verzameld op dit bord.</p>
             <p>Met deze inspiratie heb ik een layout in Illustrator gemaakt dit was echt maar een heel ruwe schets en er zou nog veel veranderd worden maar de volgorde zou hetzelfde blijven.</p>
+            <a href="https://pin.it/471FwBs" class="back-btn3">Pin bord</a>
         </div>
     </div>
     <div class="row animated fade-down delay-200">

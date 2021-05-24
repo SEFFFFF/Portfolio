@@ -56,7 +56,7 @@
     </div>
 </div>
 <div class="next-box animated fade-down delay-200">
-    <a href="#" class="next">Volgende project</a>
+    <a href="intercultural awareness.php" class="next">Volgende project</a>
 </div>
 <script src="script.js"></script>    
 </body>

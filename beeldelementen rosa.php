@@ -19,6 +19,7 @@
     <div class="topbox">
         <h1>Beeldelementen Rosa</h1>
         <p>In de brand guide die ik voor Rosa gemaakt heb staan ook verschillende beeldelementen. Hier zal ik uitleggen hoe ik deze gemaakt heb.</p>
+        <a href="PDFs/Brand guide.pdf" class="back-btn2">Brand guide</a>
     </div>
 </div>
 
@@ -62,6 +63,10 @@
             <h3>Feedback</h3>
             <p>Rosa en leraren waren hier weer erg tevreden over en vonden dit ook goed passen bij het geheel. Ook vonden ze het idee om deze later te animeren erg cool.</p>
         </div>
+    </div>
+    <div class="mockup animated fade-down delay-200">
+        <h1>Mock up poster</h1>
+        <img src="images/mockup.png" alt="mockup">
     </div>
     <div class="row animated fade-down delay-200">
         <div class="box">

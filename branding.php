@@ -20,7 +20,7 @@
     <div class="topbox">
         <h1>Branding</h1>
         <p>Als 1ste specialisatie opdracht heb ik gekozen voor branding. Ik wilde deze opdracht doen omdat ik de branding van de proftaak heel leuk vind en ik meer ervaring wil opdoen met andere methodes dan de 24PLUSONE methode.</p>
-        <a href="PDFs/Branding Doom Verslag.pdf" class="back-btn3">Uitgebreid verslag</a>
+        <a href="PDFs/Branding Doom Verslag .pdf" class="back-btn3">Uitgebreid verslag</a>
     </div>
 </div>
 <div class="container">
