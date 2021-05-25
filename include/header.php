@@ -1,5 +1,5 @@
-<div class="nav sticky">
-        <div id="logo">
+<div class="nav sticky" id="nav">
+        <div id="logo" onclick="location.href='index.php'">
           <img src="images/logo4.png">
         </div>        
         <div class="navbar">

@@ -6,10 +6,12 @@
 .nav {
     display: flex;
     justify-content: start;
-    padding-left: 20px;
-    padding-top: 20px;
+    padding: 20px 10px; /* Large padding which will shrink on scroll (using JS) */
+    transition: 0.4s; /* Adds a transition effect when the padding is decreased */
+    position: fixed;
     z-index: 10;
     background-color: none;
+    overflow: hidden;
 }
 
 #logo {
@@ -19,7 +21,6 @@
 }
   
 .navbar {
-    overflow: hidden;
     display: flex;
     margin-left: 35%;
     align-items: center;
