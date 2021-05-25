@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="temp dev.css">
     <link rel="stylesheet" href="header.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <title>Document</title>
+    <link rel='icon' href='images/favicon.png' type='image/x-icon' >
+    <title>Brand guide Rosa</title>
 </head>
 <body>
 <?php 
@@ -32,7 +32,7 @@
             <h2>Layout en inspiratie</h2>
             <p>Als 1ste ben ik op Pinterest opzoek gegaan naar voorbeelden en inspiratie voor mooie brand guides. Uit het onderzoek van de mediaverkenning wist ik al wat de inhoud zou worden van de guide dus dat scheelde wel werk. Alle inspiratie heb ik verzameld op dit bord.</p>
             <p>Met deze inspiratie heb ik een layout in Illustrator gemaakt dit was echt maar een heel ruwe schets en er zou nog veel veranderd worden maar de volgorde zou hetzelfde blijven.</p>
-            <a href="https://pin.it/471FwBs" class="back-btn3">Pin bord</a>
+            <a href="https://pin.it/471FwBs" class="back-btn4">Pin bord</a>
         </div>
     </div>
     <div class="row animated fade-down delay-200">

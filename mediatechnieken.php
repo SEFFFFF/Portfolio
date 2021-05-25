@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="temp dev.css">
     <link rel="stylesheet" href="header.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <title>Document</title>
+    <link rel='icon' href='images/favicon.png' type='image/x-icon' >
+    <title>Mediatechnieken</title>
 </head>
 <body>
 <?php 
@@ -34,7 +34,7 @@
             <p>De reactie op deze posters waren erg positief. Mijn peers vonden ze erg goed eruit zien en zagen dat ik er de tijd voor had genomen. Joris vond ze ook vet alleen raadde hij me aan om wat meer variatie te doen en beter te letten op de voorwaarde dat alle poster zwart/wit + 1 steun kleur moeten zijn. Hiernaast zie je hoe ik 1 poster heb aangepast.</p>
             <p>Als 2e deel heb ik een reposter van mijn favoriete film gemaakt. Ik heb gekozen voor de horror klassieker "Alien" omdat dit een van mijn favoriete films allertijde is. Eerst ben ik opzoek gegaan naar inspiratie. Zo had ik een mooie poster van Gabz gevonden waar ik veel inspiratie van kreeg.</p>
             <p>Ik heb gekozen om dezelfde layout als Gabz aan te houden maar hier mijn eigen twist aan te geven door een ander Alien logo en foto te gebruiken. Feedback hierop was ook erg goed al raadde Joris me aan om voor een ander beeld en logo te kiezen om het zo nog meer kloppend te maken.</p>
-            <a href="PDFs/posters.pdf" class="back-btn3">Posters</a>
+            <a href="PDFs/posters.pdf" class="back-btn4">Posters</a>
         </div>
     </div>
     <div class="row animated fade-down delay-200">
@@ -46,7 +46,7 @@
             <p>Voor de 2e opdracht heb ik 10 bladspiegels gemaakt in Indesign. Hiervoor mochten we 10 onderwerpen kiezen die ons inpsireren/intresseren en deze op een mooie, informatieve en experimentele vorm presenteren.</p>
             <p>Ik heb gekozen voor de onderwerpen: Vietnam, Iwo Jima, The Weather Project, Hokusai, Akira, Halo 3, Gorillaz, Daft Punk, Blade Runner 2049 en Moebius. Het maken van deze bladspiegels ging soepel en snel omdat ik dit al vaker gedaan heb dit semester en met de resultaten ben ik erg tevreden. Hiernaast staan 2 van mijn favoriete spreads uit dit document.</p>
             <p>Dit vond ik de leukste opdracht eruit omdat het me ook een hoop nieuwe ervaring heeft gegeven. Ik voel me nu heel comfortabel met Indesign en denk dat ik ook op veel verschillende manieren informatie in een mooie, leuke en interessante manier kan brengen.</p>
-            <a href="PDFs/bladspiegels.pdf" class="back-btn3">Spreads</a>
+            <a href="PDFs/bladspiegels.pdf" class="back-btn4">Spreads</a>
         </div>
     </div>
     <div class="row animated fade-down delay-200">

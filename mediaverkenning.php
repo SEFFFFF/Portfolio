@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="temp dev.css">
     <link rel="stylesheet" href="header.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <title>Document</title>
+    <link rel='icon' href='images/favicon.png' type='image/x-icon' >
+    <title>Mediaverkenning</title>
 </head>
 <body>
 <?php 
@@ -34,7 +34,7 @@
             <p>De styling en lay out van de mediaverkenning heb ik op me genomen. Ik wilde graag leren hoe ik een mooi boekje kan maken. Als eerst heb ik natuurlijk inspiratie gezocht op Pinterest. Dit heb ik allemaal verzameld in een bord</p>
             <p>Met deze inspiratie en de rest van de groep heb ik een layout document opgesteld. Hierin zou ik snel de layout schetsen en dit met de rest van de groep bespreken. We kwamen al snel bij een goed lopend verhaal uit echter zou er nog veel veranderen tijdens het maken van dit document.</p>
             <p>Het opstellen van deze layout was erg simpel en heeft ook niet veel tijd gekost.</p>
-            <a href="https://pin.it/44qTqo1" class="back-btn3">Pin bord</a>
+            <a href="https://pin.it/44qTqo1" class="back-btn4">Pin bord</a>
         </div>
     </div>
     <div class="row animated fade-down delay-200">

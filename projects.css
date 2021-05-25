@@ -93,6 +93,10 @@
     padding: 0;
 }
 
+.white {
+    color: white;
+}
+
 .project:hover .overlay {
     opacity: 1;
 }

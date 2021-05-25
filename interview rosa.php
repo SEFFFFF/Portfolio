@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="temp dev.css">
     <link rel="stylesheet" href="header.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <title>Document</title>
+    <link rel='icon' href='images/favicon.png' type='image/x-icon' >
+    <title>Interview Rosa</title>
 </head>
 <body>
 <?php 
@@ -33,7 +33,7 @@
             <p>Na een hoop brainstormen hebben we een mooi document samengesteld met uitgebreide vragen. Ook hebben we gekozen hoe we de 23plusone methode gingen gebruiken.</p>
             <h3>Feedback</h3>
             <p>Nadat we een voortgangsgesprek hadden met Michael waarin hij ons goed advies gaf om dit interview samen met andere groepen te doen, heb ik contact gezocht met de andere groepsleiders om zo een bespreking te plannen.</p>
-            <a href="PDFs/Vragen Rosa.pdf" class="back-btn3">Vragenlijst</a>
+            <a href="PDFs/Vragen Rosa.pdf" class="back-btn4">Vragenlijst</a>
         </div>
     </div>
     <div class="row animated fade-down delay-200">
@@ -46,7 +46,7 @@
             <p>Na de vragen hebben we Rosa gevraagd om de pyramide in te vullen aan de hand van de 23plusone methode. (zie hiernaast)</p>
             <h3>Transciptie</h3>  
             <p>Het hele interview is ook getranscribeerd door onze groep, hier was eerst lichtelijke weerstand tegen maar toen we het toch gebruikte begrepen andere groepsgenoten wel waarom we deze moeite genomen hebben.</p>
-            <a href="PDFs/Transcriptie interview Rosa.pdf" class="back-btn3">Transcriptie</a>
+            <a href="PDFs/Transcriptie interview Rosa.pdf" class="back-btn4">Transcriptie</a>
         </div>
     </div>
     <div class="row animated fade-down delay-200">

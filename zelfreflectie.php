@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="temp dev.css">
     <link rel="stylesheet" href="header.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <title>Document</title>
+    <link rel='icon' href='images/favicon.png' type='image/x-icon' >
+    <title>Zelfreflectie</title>
 </head>
 <body>
 <?php 
@@ -50,7 +50,7 @@
     </div>
 </div>
 <div class="next-box animated fade-down delay-200">
-    <a href="#" class="next">Volgende project</a>
+    <a href="projects.php" class="next">Terug naar projecten</a>
 </div>
 <script src="script.js"></script>    
 </body>

@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="temp dev.css">
     <link rel="stylesheet" href="header.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <title>Document</title>
+    <link rel='icon' href='images/favicon.png' type='image/x-icon' >
+    <title>Branding</title>
 </head>
 <body>
 <?php 
@@ -38,7 +38,7 @@
             <p>Gelukkig had ik al een backup onderwerp, Doom Eternal. Hiervoor heb ik verschillende bronnen geraadpleegd. Zo heb ik natuurlijk het internet afgezocht naar informatie, ik heb zelf al een boek over het ontwerp van dit spel dus dat helpt ook maar gelukkig is ID software heel transparant in hun development proces en er staan vele uren beeldmateriaal en interviews op Youtube.</p>
             <h3>Feedback</h3>
             <p>Na de brand guide af was heb ik deze aan Sebastiaan en Evert laten zien en hun hadden heel goede feedback hierover gegeven. Zo zeiden ze dat ze weinig aan te merken hadden over de inhoud en vonden ze dat met de hele stijl van deze brand guide hun meenam in wat het Doom merk wil uitstralen.</p>
-            <a href="PDFs/Branding Doom.pdf" class="back-btn3">Brand guide</a>
+            <a href="PDFs/Branding Doom.pdf" class="back-btn4">Brand guide</a>
         </div>
     </div>
     <div class="row animated fade-down delay-200">
@@ -53,7 +53,7 @@
     </div>
 </div>
 <div class="next-box animated fade-down delay-200">
-    <a href="interview Rosa.php" class="next">Volgende project</a>
+    <a href="interview rosa.php" class="next">Volgende project</a>
 </div>
 <script src="script.js"></script>    
 </body>

@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="temp dev.css">
     <link rel="stylesheet" href="header.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <title>Document</title>
+    <link rel='icon' href='images/favicon.png' type='image/x-icon' >
+    <title>Studenten</title>
 </head>
 <body>
 <?php 
@@ -42,7 +42,7 @@
     </div>
     <div class="row animated fade-down delay-200">
         <div class="box">
-            <h2>wat heb ik geleerd?</h2>
+            <h2>Wat heb ik geleerd?</h2>
             <p>Hier heb ik niet veel nieuws in geleerd.</p>
         </div>
         <div class="box">
