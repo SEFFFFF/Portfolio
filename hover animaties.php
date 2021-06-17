@@ -60,7 +60,7 @@
     </div>
 </div>
 <div class="next-box animated fade-down delay-200">
-    <a href="brand guide rosa.php" class="next">Volgende project</a>
+    <a href="rps.php" class="next">Volgende project</a>
 </div>
 <script src="script.js"></script>    
 </body>

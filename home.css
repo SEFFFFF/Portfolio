@@ -45,18 +45,21 @@
   font-family: Gallery;
   font-size: 112px;
   margin-bottom: -30px;
+  font-weight: normal;
 }
 
 .portfolio {
   font-family: Gallery;
   font-size: 150px;
   margin-bottom: -35px;
+  font-weight: normal;
 }
 
 .jaar {
   font-size: 74px;
   font-family: Geomanist-medium;
   margin-left: 84%;
+  font-weight: normal;
 }
 
 
@@ -182,12 +185,14 @@ section p {
 .text h1 {
   font-family: geomanist;
   font-size: 100px;
+  font-weight: normal;
 }
 
 .text h2 {
   font-family: Gallery;
   font-size: 60px;
   color: black;
+  font-weight: normal;
 }
 
 .text2 {
@@ -200,6 +205,7 @@ section p {
   transform: translate(-50%, -50%);
   text-align: center;
   font-family: Gallery;
+  font-weight: normal;
 }
 
 .text2 h3 {

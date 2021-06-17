@@ -22,6 +22,12 @@
                 </div>
                 <img src="images/port thumb.png" alt="Avatar" class="image">                              
             </div>
+            <div class="project">
+                <div class="overlay" onclick="location.href='glow.php'">                       
+                   <h1 class="white">Glow Lightweek</h1>
+                </div>
+                <img src="images/oskartitle.png" alt="Avatar" class="image">                              
+            </div>
         </div>
 
         <h1 class="animated fade-down delay-200">Development</h1>
@@ -30,7 +36,7 @@
                 <div class="overlay" onclick="location.href='portfolio website.php'">                       
                    <h1>Portfolio Website</h1>
                 </div>
-                <img src="images/port thumb" alt="Avatar" class="image">
+                <img src="images/port thumb.png" alt="Avatar" class="image">
             </div>
             <div class="project">
                 <div class="overlay" onclick="location.href='text animaties.php'">                       
@@ -49,6 +55,14 @@
                    <h1 class="white">Hover Animaties</h1>
                 </div>
                 <img src="images/hover thumb.png" alt="Avatar" class="image">
+            </div>
+        </div>
+        <div class="row animated fade-down delay-400">
+            <div class="project">
+                <div class="overlay" onclick="location.href='rps.php'">                       
+                   <h1>Rock Paper Scissors</h1>
+                </div>
+                <img src="images/rps.png" alt="Avatar" class="image">
             </div>
         </div>
         
@@ -164,9 +178,9 @@
         <div class="row animated fade-down delay-400">
             <div class="project">
                 <div class="overlay" onclick="location.href='sprint x project.php'">                       
-                   <h1>Sprint X Project</h1>
+                   <h1 class="white">Sprint X Project</h1>
                 </div>
-                <img src="images/Asset 5.png" alt="Avatar" class="image">
+                <img src="images/scot free title.png" alt="Avatar" class="image">
             </div>
         </div>
     </div>

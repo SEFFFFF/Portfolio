@@ -69,6 +69,7 @@ body {
 .topbox h1 {
    font-family: Gallery;
    font-size: 80px;
+   font-weight: normal;
 }
 
 .topbox p {
@@ -123,6 +124,7 @@ body {
     font-family: Geomanist-medium;
     font-size: 40px;
     margin-bottom: 30px;
+    font-weight: normal;
 }
 
 .box p {

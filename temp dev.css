@@ -76,6 +76,7 @@ body {
 .topbox h1 {
    font-family: Gallery;
    font-size: 80px;
+   font-weight: normal;
 }
 
 .topbox p {
@@ -238,6 +239,7 @@ body {
   
 .box h2 {
     font-family: Geomanist-medium;
+    font-weight: normal;
     font-size: 40px;
     margin-bottom: 30px;
     margin-left: 60px;
@@ -337,5 +339,28 @@ body {
     font-size: 40px;
     margin-bottom: 30px;
     margin-left: 60px;
+}
+
+.container1 {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.selections {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.selection {
+    font-size: 2em;
+}
+
+.results {
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.5em;
 }
     

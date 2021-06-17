@@ -44,13 +44,15 @@
             <p>Ook andere vakken zoals research kunnen beter volgens mij. Ik heb hier al flinke stappen in gezet dit semester maar ik wil me hier komend semester meer op focussen omdat dit wel altijd de basis van een goed en relevant ontwerp is.</p>
             <h3>Wat wil ik in de toekomst?</h3>
             <p>Ik hoop dat ik ooit een eigen design bureau kan beginnen en branding opdrachten kan doen zoals ik die ook voor Rosa gemaakt heb. Ik vond dit soort werk ontzettend leuk vooral omdat dit een stuk kleinschaliger is dan een groot bedrijf, hier heb ik echt het gevoel dat mijn bijdrage impact heeft op de koers van een bedrijf/merk.</p>
+            <h3>Specialisaties</h3>
+            <p>Ook moesten we kiezen tussen 2 specialisatie opdrachten dit semester hiervoor heb ik gekozen voor de <a href="branding.php" class="tutorial">branding</a> en <a href="branding.php" class="tutorial">mediatechnieken</a> opdracht. Ik heb voor deze gekozen omdat deze het beste passen bij het soort werk wat ik ook wil gaan doen later en ik ook meer over deze onderwerpen wil weten vooral op het gebied van mediatechnieken, ik vind het heel leuk om nieuwe dingen in Illustrator, Photoshop of iets dergelijks te leren waardoor mijn ontwerpen ook beter worden.</p>
             <h3>SWOT analyse</h3>
             <img src="images/swot.png" alt="png" class="swot">
         </div>
     </div>
 </div>
 <div class="next-box animated fade-down delay-200">
-    <a href="projects.php" class="next">Terug naar projecten</a>
+    <a href="sprint x project.php" class="next">Volgende project</a>
 </div>
 <script src="script.js"></script>    
 </body>

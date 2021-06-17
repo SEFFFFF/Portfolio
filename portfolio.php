@@ -59,22 +59,24 @@
             <p>De 1ste iteratie beviel me zelf niet zo goed en a.h.v. van feedback van groepsgenoten en vrienden heb ik besloten om het helemaal opnieuw proberen te stylen.</p>
             <p>Deze 2e iteratie vond ik nog steeds niet geweldig maar goed genoeg. Groepsgenoten en vrienden vonden het er erg netjes uitzien maar Joost Niessen (4e jaars FHICT student) raadde me aan om de UX te verbeteren door meer pagina's te verbinden met elkaar.</p>
             <p>Dit advies heb ik ook opgevolgd en ik heb eerst de intro, leerdoel en about me pagina verbonden maar heb de about me pagina daarna los hiervan gehaald omdat ik deze niet belangrijk vond en hier wel altijd een link in de header voor is. Ook heb ik alle leerdoelen op 1 pagina gezet zodat er weinig gescrolled hoeft te worden. Hiermee heb ik de UX verbeterd.</p>
+            <h3>Feedback docenten</h3>
+            <p>Voor de laatste review ronde heb ik van Bram, Sebastiaan en Frank een groen gekregen met complimenten voor de verzorging, manier van schrijven en de goede vulling van het portfolio. Frank raadde me nog aan om extra JS focused POC's te maken om zo voor Development nog sterker in mijn schoenen te staan. Sebastiaan zei als laatste nog dat ik met een gerust hart de eindassesment in kon gaan dus dat was heel goed om te horen.</p>
             <a href="https://xd.adobe.com/view/d44288c8-cc28-4529-ac9f-47fb3a3a67ee-8111/" class="button">Prototype 2 (beware it's a mess)</a>
         </div>
     </div>
     <div class="row animated fade-down delay-200">
         <div class="box">
             <h2>Wat heb ik geleerd?</h2>
-            <p></p>
+            <p>Ik heb geleerd om sneller de stap van prototype naar product te maken en dit niet laten wachten omdat ik de 1ste review heel goede feedback heb gekregen.</p>
         </div>
         <div class="box">
             <h2>Wat kon beter?</h2>
-            <p></p>
+            <p>Het ontwerp van de site kon absoluut nog beter als ik er meer tijd aan had besteed maar zoals gezegd kon ik me beter focussen op andere aspecten.</p>
         </div>
     </div>
 </div>
 <div class="next-box animated fade-down delay-200">
-    <a href="portfolio website.php" class="next">Volgende project</a>
+    <a href="glow.php" class="next">Volgende project</a>
 </div>
 <script src="script.js"></script>    
 </body>
